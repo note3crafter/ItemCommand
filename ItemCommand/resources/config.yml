@@ -1,0 +1,8 @@
+#ItemCommand
+#Copyright 2020 by TheNote
+
+# Place Here your ID form the Item ore Block! 1 = Stone
+ItemID: 1
+
+# Place Here your command use {player} for the Player.
+Command: say Hello {player} !
